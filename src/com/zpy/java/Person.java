@@ -5,5 +5,6 @@ public class Person {
         System.out.println("hello world!");
         System.out.println("你好，世界");
         System.out.println("goodbye world");
+        System.out.println("还不睡");
     }
 }
